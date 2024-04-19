@@ -1,0 +1,11 @@
+﻿Pergunta 3
+
+A) a = 1, b = 2, c = 3  = Não é possível formar um triângulo
+
+B) a = 3, b = 4, c = 5  = ESCALENO
+
+C) a = 2, b = 2, c = 4  = Não é possível formar um triângulo
+
+D) a = 4, b = 4, c = 4  = EQUILATERO
+
+E) a = 5, b = 3, c = 3  = Não é possível formar um triângulo
